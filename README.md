@@ -2,6 +2,10 @@
 
 > Your AI Research Assistant simplifying raw SAS output to clear, actionable insights.
 
+Thumbnail Link: https://drive.google.com/file/d/1gdPYQtnrtYV9hOIMG9Q20Npz8GBgifVb/view?usp=drive_link
+
+Video Link: https://drive.google.com/file/d/192tbcyevu4LdEVng_V4A-CWE5McyFzp_/view?usp=drive_link
+
 ---
 
 ## Problem
